@@ -6,7 +6,7 @@ subtitle: Affiliated wtih <a href='#'>Purdue University </a> and <a href='#'>Joh
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
