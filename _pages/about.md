@@ -2,7 +2,7 @@
 layout: about
 title: Pragnya Prasanna Athri
 permalink: /
-subtitle: >-
+subtitle: >
   Affiliated with [Purdue University](https://www.purdue.edu) and
   [John Martinson Honors College](https://honors.purdue.edu) |
   Research Associate at [Eradivir](https://eradivir.com) |
