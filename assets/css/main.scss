@@ -23,3 +23,16 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* --- About page subtitle formatting --- */
+.post-header .desc p {
+  margin: 0;      /* removes extra paragraph spacing from markdownify */
+}
+
+.post-header .desc {
+  line-height: 1.4;
+}
+
+.post-header .desc a {
+  text-decoration: underline;
+}
+
