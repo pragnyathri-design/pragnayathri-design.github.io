@@ -9,11 +9,8 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
-
-<script>
-  window.location.href = "{{ '/assets/pdf/Athri_Pragnya_resume.pdf' | relative_url }}";
-</script>
-
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Athri_Pragnya _ resume .pdf' | relative_url }}">
 <p>
-  If it doesn’t redirect, <a href="{{ '/assets/pdf/Athri_Pragnya_resume.pdf' | relative_url }}">click here to open my CV</a>.
+  If it didn’t open automatically,
+  <a href="{{ '/assets/pdf/Athri_Pragnya _ resume .pdf' | relative_url }}">click here to view my CV (PDF)</a>.
 </p>
