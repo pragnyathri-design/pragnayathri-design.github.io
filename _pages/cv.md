@@ -9,6 +9,7 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+
 <script>
   window.location.href = "{{ '/assets/pdf/Athri_Pragnya_resume.pdf' | relative_url }}";
 </script>
