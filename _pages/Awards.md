@@ -6,13 +6,27 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 5
 ---
+<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:18px;">
 
-<!-- _pages/publications.md -->
+  <!-- Award Card 1 -->
+  <div style="border:1px solid #e6e6e6; border-radius:12px; padding:14px;">
+    <img src="{{ '/assets/img/award1.jpg' | relative_url }}" alt="Award 1" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
+    <h3 style="margin:12px 0 6px;">TITLE OF AWARD</h3>
+    <p style="margin:0; opacity:0.8;">Date received: Month Day, Year</p>
+  </div>
 
-<!-- Bibsearch Feature -->
+  <!-- Award Card 2 -->
+  <div style="border:1px solid #e6e6e6; border-radius:12px; padding:14px;">
+    <img src="{{ '/assets/img/award2.jpg' | relative_url }}" alt="Award 2" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
+    <h3 style="margin:12px 0 6px;">TITLE OF AWARD</h3>
+    <p style="margin:0; opacity:0.8;">Date received: Month Day, Year</p>
+  </div>
 
-{% include bib_search.liquid %}
-
-<div class="publications">
+  <!-- Award Card 3 -->
+  <div style="border:1px solid #e6e6e6; border-radius:12px; padding:14px;">
+    <img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award 3" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
+    <h3 style="margin:12px 0 6px;">TITLE OF AWARD</h3>
+    <p style="margin:0; opacity:0.8;">Date received: Month Day, Year</p>
+  </div>
 
 </div>
