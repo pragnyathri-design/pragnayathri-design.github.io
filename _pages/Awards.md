@@ -28,11 +28,11 @@ nav_order: 5
     </p>
   </div>
 
-  <!-- Award Card 2 -->
+  <!-- Card 3: Model UN -->
   <div style="border:1px solid #e6e6e6; border-radius:12px; padding:14px;">
-    <img src="{{ '/assets/img/award2.jpg' | relative_url }}" alt="Award 2" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
-    <h3 style="margin:12px 0 6px;">TITLE OF AWARD</h3>
-    <p style="margin:0; opacity:0.8;">Date received: Month Day, Year</p>
+    <img src="{{ '/assets/img/UN_logo.jpg' | relative_url }}" alt="Model United Nation" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
+    <h3 style="margin:12px 0 6px;">Outstanding Delegate</h3>
+    <p style="margin:0; opacity:0.8;"> 2022 </p>
   </div>
 
   <!-- Award Card 3 -->
