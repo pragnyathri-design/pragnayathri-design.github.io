@@ -39,3 +39,7 @@ $max-content-width: {{ site.max_width }};
   text-align: center !important;
   font-weight: 800 !important;
 }
+/* --- Times New Roman site-wide --- */
+body {
+  font-family: "Times New Roman", Times, serif !important;
+}
