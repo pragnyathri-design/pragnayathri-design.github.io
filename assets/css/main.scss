@@ -43,9 +43,24 @@ $max-content-width: {{ site.max_width }};
 body {
   font-family: "Times New Roman", Times, serif !important;
 }
-/* --- Keep About subtitle on one line (safe responsive) --- */
-.post-header .desc {
-  font-size: 0.95rem;
+/* --- Force the About subtitle blocks onto ONE line --- */
+.post-header .desc .row {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  justify-content: center;
+  gap: 2rem; /* space between items */
 }
+
+/* Make each subtitle "column" not shrink into wrapping */
+.post-header .desc .row > [class*="col"] {
+  flex: 0 0 auto !important;
+  white-space: nowrap !important;
+}
+
+/* Remove default paragraph spacing that can create extra height */
+.post-header .desc p {
+  margin: 0 !important;
+}
+
 
 
