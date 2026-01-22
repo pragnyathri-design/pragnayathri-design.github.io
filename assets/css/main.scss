@@ -76,6 +76,60 @@ body {
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+/* Volunteering alternating cards */
+.volunteer {
+  width: min(900px, 90%);
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.vcard {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.vimg {
+  width: 180px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 14px;
+}
+
+.vtext {
+  flex: 1;
+}
+
+/* Alternate image side */
+.vcard:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+/* Alternate rectangle colors */
+.vcard:nth-child(odd) {
+  background: #f3f7ff;
+}
+.vcard:nth-child(even) {
+  background: #fff4f4;
+}
+
+/* Mobile: stack */
+@media (max-width: 700px) {
+  .vcard,
+  .vcard:nth-child(even) {
+    flex-direction: column;
+    text-align: center;
+  }
+  .vimg {
+    width: 100%;
+    height: 200px;
+  }
+}
 
 
 
