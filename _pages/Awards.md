@@ -38,11 +38,13 @@ nav_order: 5
     </p>
   </div>
 
-  <!-- Award Card 3 -->
+ <!-- Card 4: Covid Warrior -->
   <div style="border:1px solid #e6e6e6; border-radius:12px; padding:14px;">
-    <img src="{{ '/assets/img/award3.jpg' | relative_url }}" alt="Award 3" style="width:100%; height:180px; object-fit:cover; border-radius:10px;">
-    <h3 style="margin:12px 0 6px;">TITLE OF AWARD</h3>
-    <p style="margin:0; opacity:0.8;">Date received: Month Day, Year</p>
+    <img src="{{ '/assets/img/covid_logo.png' | relative_url }}" alt=" Change Makers of Kanakapura" style="width:100%; height:180px; object-fit:contain; border-radius:10px;">
+    <h3 style="margin:12px 0 6px;"> Covid Warrior </h3>
+    <p style="margin:0; opacity:0.8;"> Change Makers of Kanakapura </p>
+    <p style="margin:8px 0 0; opacity:0.85;">
+      2020 - 2021
+    </p>
   </div>
-
 </div>
