@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink:  /about/
 subtitle: Affiliated with [Purdue University](https://www.purdue.edu) and [John Martinson Honors College](https://honors.purdue.edu)| Research Associate at [Eradivir](https://eradivir.com)|Affiliated with [Cancer Mukti Foundation](https://www.cancermuktifoundation.org)
   
 profile:
