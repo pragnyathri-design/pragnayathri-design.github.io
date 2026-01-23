@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink:  /about/
+permalink:  /
 subtitle: Affiliated with [Purdue University](https://www.purdue.edu) and [John Martinson Honors College](https://honors.purdue.edu)| Research Associate at [Eradivir](https://eradivir.com)|Affiliated with [Cancer Mukti Foundation](https://www.cancermuktifoundation.org)
   
 profile:
@@ -18,6 +18,58 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div id="projects"></div>
+## Projects
+Paste your project content here.
+
+---
+
+<div id="about"></div>
+## About
+
 Driven by a passion for cancer immunotherapy and public health innovation, I strive to bridge scientific discovery with meaningful clinical impact. My interests center on developing novel approaches for early cancer detection and advancing payload technologies that enhance the precision, safety, and effectiveness of cancer treatments.
 
 I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
+
+<div id="volunteering"></div>
+## Volunteering
+
+<div class="volunteer">
+
+  <div class="vcard">
+    <img class="vimg" src="{{ '/assets/img/volunteering/foodbank.jpg' | relative_url }}" alt="Food bank">
+    <div class="vtext">
+      <h3>Food Bank Volunteer</h3>
+      <p>Helped pack and organize food donations for families each week.</p>
+    </div>
+  </div>
+
+  <div class="vcard">
+    <img class="vimg" src="{{ '/assets/img/volunteering/hospital.jpg' | relative_url }}" alt="Hospital">
+    <div class="vtext">
+      <h3>Hospital Volunteer</h3>
+      <p>Assisted staff, guided visitors, and helped with patient check-in.</p>
+    </div>
+  </div>
+
+  <div class="vcard">
+    <img class="vimg" src="{{ '/assets/img/volunteering/tutoring.jpg' | relative_url }}" alt="Tutoring">
+    <div class="vtext">
+      <h3>Community Tutoring</h3>
+      <p>Tutored students and created weekly study plans.</p>
+    </div>
+  </div>
+
+</div>
+
+---
+
+<div id="cv"></div>
+## CV
+Add your CV highlights or embed PDF.
+
+---
+
+<div id="awards"></div>
+## Awards
+List awards here.
