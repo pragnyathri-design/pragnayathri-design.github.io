@@ -18,11 +18,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div id="projects"></div>
-## Projects
-Paste your project content here.
-
----
 
 <div id="about"></div>
 ## About
@@ -30,6 +25,12 @@ Paste your project content here.
 Driven by a passion for cancer immunotherapy and public health innovation, I strive to bridge scientific discovery with meaningful clinical impact. My interests center on developing novel approaches for early cancer detection and advancing payload technologies that enhance the precision, safety, and effectiveness of cancer treatments.
 
 I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
+
+  </div>
+
+<div id="projects"></div>
+## Projects
+Paste your project content here.
 
 <div id="volunteering"></div>
 ## Volunteering
