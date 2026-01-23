@@ -26,7 +26,8 @@ Driven by a passion for cancer immunotherapy and public health innovation, I str
 
 I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
 
-  </div>
+
+
 
 <div id="projects"></div>
 ## Projects
@@ -67,7 +68,12 @@ Paste your project content here.
 
 <div id="cv"></div>
 ## CV
-Add your CV highlights or embed PDF.
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Athri_Pragnya _ resume .pdf' | relative_url }}">
+<p>
+  If it didn’t open automatically,
+  <a href="{{ '/assets/pdf/Athri_Pragnya _ resume .pdf' | relative_url }}">click here to view my CV (PDF)</a>.
+</p>
+
 
 ---
 
