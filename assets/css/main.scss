@@ -162,6 +162,11 @@ body {
     height: 220px !important;
   }
 }
+html { scroll-behavior: smooth; }
+
+#about, #projects, #volunteering, #awards {
+  scroll-margin-top: 90px;
+}
 
 
 
