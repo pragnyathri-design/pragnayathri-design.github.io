@@ -66,14 +66,6 @@ Paste your project content here.
 
 ---
 
-<div id="cv"></div>
-## CV
-<a href="{{ '/assets/pdf/Pragnya_Athri_CV.pdf' | relative_url }}" target="_blank">
-  📄 Click here to view my CV
-</a>
-
----
-
 <div id="awards"></div>
 ## Awards
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:18px;">
