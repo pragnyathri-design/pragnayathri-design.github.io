@@ -63,6 +63,10 @@ body {
 }
 
 /* Tape effect */
+.post-content {
+  position: relative;
+}
+
 .post-content::before {
   content: "";
   position: absolute;
@@ -71,11 +75,12 @@ body {
   transform: translateX(-50%);
   width: 110px;
   height: 28px;
-  background: rgba(255,255,255,0.25);
-  border: 1px solid rgba(255,255,255,0.25);
+  background: rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
+
 ge side */
 .vcard:nth-child(even) {
   flex-direction: row-reverse;
