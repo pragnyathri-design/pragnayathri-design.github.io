@@ -233,3 +233,37 @@ html { scroll-behavior: smooth; }
     grid-template-columns: 1fr !important;
   }
 }
+
+/* ===== Contact Band ===== */
+.contact-band {
+  width: 100vw;                     /* full screen width */
+  margin-left: calc(-50vw + 50%);   /* escape page margins */
+  background: #e9ecef;              /* professional soft grey */
+  padding: 60px 20px;
+  margin-top: 60px;
+}
+
+.contact-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-content h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.contact-content p {
+  font-size: 1.1rem;
+  margin: 6px 0;
+}
+
+.contact-content a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.contact-content a:hover {
+  text-decoration: underline;
+}
