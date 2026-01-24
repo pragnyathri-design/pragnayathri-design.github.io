@@ -12,11 +12,7 @@ profile:
     <p></p>
     <p></p>
     <p></p>
-    
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 <div id="about"></div>
 
@@ -40,10 +36,45 @@ I’m especially interested in research and translational efforts that connect m
 <div style="clear: both; margin-top: 30px;"></div>
 
 <div id="projects"></div>
-
 ## Projects
 
-Paste your project content here.
+<div class="timeline">
+
+  <!-- Item 1 (left) -->
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Project Title 1</h3>
+      <p class="timeline-date">Fall 2025</p>
+      <p>
+        1–2 lines about the main idea you focused on. What problem? What approach?
+      </p>
+    </div>
+  </div>
+
+  <!-- Item 2 (right) -->
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Project Title 2</h3>
+      <p class="timeline-date">Spring 2025</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+  <!-- Item 3 (left) -->
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Project Title 3</h3>
+      <p class="timeline-date">2024</p>
+      <p>
+        1–2 lines about the main idea you focused on.
+      </p>
+    </div>
+  </div>
+
+</div>
+
 
 <div id="skills"></div>
 
