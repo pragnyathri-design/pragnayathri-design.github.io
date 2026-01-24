@@ -255,3 +255,12 @@ html { scroll-behavior: smooth; }
 .contact-content p {
   margin: 6px 0;
 }
+
+/* Force Contact section centered */
+.contact-band .contact-content {
+  text-align: center !important;
+}
+
+.contact-band .contact-content * {
+  text-align: center !important;
+}
