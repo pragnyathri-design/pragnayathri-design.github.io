@@ -18,12 +18,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 <div id="about"></div>
-## About
-<div style="
-  background:#eef5fb;
-  padding:28px 24px 24px 24px;
+
+<h2 style="margin-bottom: 18px;">About</h2>
 
 <div style="
   background:#eef5fb;
