@@ -22,6 +22,8 @@ latest_posts:
 
 <h2 style="margin-bottom: 18px;">About</h2>
 
+## About
+
 <div style="
   background:#eef5fb;
   padding:22px 24px;
@@ -31,10 +33,16 @@ latest_posts:
   line-height:1.7;
 ">
 
-
 Driven by a passion for cancer immunotherapy and public health innovation, I strive to bridge scientific discovery with meaningful clinical impact. My interests center on developing novel approaches for early cancer detection and advancing payload technologies that enhance the precision, safety, and effectiveness of cancer treatments.
 
 I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
+
+</div>
+
+<div style="clear: both; margin-top: 30px;"></div>
+
+## Projects
+Paste your project content here.
 
 
 <!-- end of About box -->
