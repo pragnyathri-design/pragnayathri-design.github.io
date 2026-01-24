@@ -125,5 +125,14 @@ Paste your project content here.
       2020 - 2021
     </p>
   </div>
+  
 </div>
+<div class="contact-band">
+  <div class="contact-content">
+    <h2>Contact Me</h2>
+    <p><strong>Email:</strong> pathri@purdue.edu</p>
+    <p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/pragnya-athri-1375951b5" target="_blank">linkedin.com/in/yourprofile</a></p>
+  </div>
+</div>
+
 
