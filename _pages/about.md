@@ -127,6 +127,8 @@ Paste your project content here.
   </div>
   
 </div>
+<div style="clear: both;"></div>
+
 <div class="contact-band">
   <div class="contact-content">
     <h2>Contact Me</h2>
