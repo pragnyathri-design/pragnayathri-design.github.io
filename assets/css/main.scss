@@ -196,3 +196,40 @@ html { scroll-behavior: smooth; }
 }
 
 
+/* ===== Awards: force 4 columns ===== */
+.awards,
+.awards-grid,
+.award-grid,
+.awards-list {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 1.2rem !important;
+}
+
+/* Responsive fallbacks */
+@media (max-width: 1200px) {
+  .awards,
+  .awards-grid,
+  .award-grid,
+  .awards-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .awards,
+  .awards-grid,
+  .award-grid,
+  .awards-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .awards,
+  .awards-grid,
+  .award-grid,
+  .awards-list {
+    grid-template-columns: 1fr !important;
+  }
+}
