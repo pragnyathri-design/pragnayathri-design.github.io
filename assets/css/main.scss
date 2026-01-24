@@ -170,14 +170,16 @@ html { scroll-behavior: smooth; }
 
 /* ===== Professional About Card ===== */
 .sticky-note {
-  background: #f4f6f8;   /* soft professional gray */
-  padding: 22px 24px;
-  border-radius: 8px;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
-  margin: 10px 0 20px 0;
-  line-height: 1.7;
-  max-width: 100%;       /* prevents overlap */
-  position: relative;
+  background: #f4f6f8 !important;  /* professional soft gray */
+  padding: 18px 20px !important;
+  border-radius: 10px !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08) !important;
+  margin: 10px 0 20px 0 !important;
+  line-height: 1.7 !important;
+
+  /* THIS prevents it from stretching under your photo */
+  width: 100% !important;
+  max-width: 600px !important;
 }
 
 /* tape effect */
