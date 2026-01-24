@@ -266,15 +266,14 @@ html { scroll-behavior: smooth; }
 }
 
 /* ===== Projects Timeline ===== */
-.timeline {
+.post-content .timeline {
   position: relative;
   width: min(950px, 92%);
-  margin: 30px auto 10px;
+  margin: 30px auto;
   padding: 10px 0 40px;
 }
 
-/* the center vertical line */
-.timeline::before {
+.post-content .timeline::before {
   content: "";
   position: absolute;
   top: 0;
@@ -286,27 +285,17 @@ html { scroll-behavior: smooth; }
   border-radius: 2px;
 }
 
-.timeline-item {
+.post-content .timeline-item {
   position: relative;
   width: 50%;
   padding: 10px 30px;
   box-sizing: border-box;
 }
 
-/* left items */
-.timeline-item.left {
-  left: 0;
-  text-align: right;
-}
+.post-content .timeline-item.left { left: 0; text-align: right; }
+.post-content .timeline-item.right { left: 50%; text-align: left; }
 
-/* right items */
-.timeline-item.right {
-  left: 50%;
-  text-align: left;
-}
-
-/* the dot on the center line */
-.timeline-item::before {
+.post-content .timeline-item::before {
   content: "";
   position: absolute;
   top: 22px;
@@ -318,16 +307,10 @@ html { scroll-behavior: smooth; }
   z-index: 2;
 }
 
-.timeline-item.left::before {
-  right: -7px;  /* half of dot width */
-}
+.post-content .timeline-item.left::before { right: -7px; }
+.post-content .timeline-item.right::before { left: -7px; }
 
-.timeline-item.right::before {
-  left: -7px;
-}
-
-/* the card */
-.timeline-content {
+.post-content .timeline-content {
   display: inline-block;
   background: #f4f6f8;
   border-radius: 14px;
@@ -336,42 +319,14 @@ html { scroll-behavior: smooth; }
   max-width: 360px;
 }
 
-.timeline-content h3 {
-  margin: 0 0 6px 0;
-}
+.post-content .timeline-date { opacity: 0.7; margin-bottom: 8px; }
 
-.timeline-date {
-  margin: 0 0 10px 0;
-  opacity: 0.7;
-  font-size: 0.95rem;
-}
-
-/* Mobile: stack everything on one side */
+/* Mobile */
 @media (max-width: 780px) {
-  .timeline::before {
-    left: 18px;              /* move line to the left */
-    transform: none;
-  }
-
-  .timeline-item {
-    width: 100%;
-    padding-left: 50px;
-    padding-right: 10px;
-  }
-
-  .timeline-item.left,
-  .timeline-item.right {
-    left: 0;
-    text-align: left;
-  }
-
-  .timeline-item::before {
-    left: 11px;              /* dot sits on the left line */
-    right: auto;
-  }
-
-  .timeline-content {
-    max-width: 100%;
-  }
+  .post-content .timeline::before { left: 18px; transform: none; }
+  .post-content .timeline-item { width: 100%; padding-left: 50px; padding-right: 10px; }
+  .post-content .timeline-item.left,
+  .post-content .timeline-item.right { left: 0; text-align: left; }
+  .post-content .timeline-item::before { left: 11px; right: auto; }
+  .post-content .timeline-content { max-width: 100%; }
 }
-
