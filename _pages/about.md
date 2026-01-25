@@ -44,10 +44,10 @@ I’m especially interested in research and translational efforts that connect m
   <!-- Item 1 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>Project Title 1</h3>
-      <p class="timeline-date">Fall 2025</p>
+      <h3>Gut Microbiota–Driven Modulation of T Cell Inflammatory Responses</h3>
+      <p class="timeline-date"></p>
       <p>
-        1–2 lines about the main idea you focused on. What problem? What approach?
+        Skills: T-cell culture, immune stimulation assays, flow cytometry, ELISA, cytokine profiling, immune functional analysis
       </p>
     </div>
   </div>
@@ -55,10 +55,10 @@ I’m especially interested in research and translational efforts that connect m
   <!-- Item 2 (right) -->
   <div class="timeline-item right">
     <div class="timeline-content">
-      <h3>Project Title 2</h3>
-      <p class="timeline-date">Spring 2025</p>
+      <h3> Molecular Mechanisms of Imatinib (Gleevec) Resistance in Chronic Myeloid Leukemia </h3>
+      <p class="timeline-date"></p>
       <p>
-        1–2 lines about the main idea you focused on.
+       Skills: Site-directed mutagenesis, plasmid construct design, protein expression & purification, kinase assays, drug inhibition analysis, SDS-PAGE, Bradford protein   quantification, enzymatic activity assays, structural modeling, data analysis
       </p>
     </div>
   </div>
