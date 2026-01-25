@@ -38,11 +38,6 @@ I’m especially interested in research and translational efforts that connect m
 ## Projects
 
 <div class="timeline" markdown="0">
-
-</div>
-
-</section>
-
   <!-- Item 1 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
