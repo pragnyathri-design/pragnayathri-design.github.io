@@ -100,7 +100,7 @@ I’m especially interested in research and translational efforts that connect m
   <div class="timeline-item right">
     <div class="timeline-content">
       <h3> Bispecific Immunotherapy Targeting Folate Receptor–Positive Tumors </h3>
-      <p class="timeline-date">2024</p>
+      <p class="timeline-date"></p>
       <p>
        Skills: antibody-recruiting platforms, folate receptor (FOLRα) targeting, tumor-targeted drug development, immune effector assays (ADCC, CDC), in vivo murine tumor models (4T1, CT26)
       </p>
@@ -111,7 +111,7 @@ I’m especially interested in research and translational efforts that connect m
   <div class="timeline-item left">
     <div class="timeline-content">
       <h3> Fibroblast Functional Assay Development for IBD </h3>
-      <p class="timeline-date">2024</p>
+      <p class="timeline-date"></p>
       <p>
       Skills: Primary human cell culture, fibroblast biology, in vitro functional assays, cell proliferation assays, cell migration assays, live-cell imaging, fluorescence microscopy, drug response evaluation, mechanism-of-action studies, preclinical assay development, quantitative image analysis
       </p>
@@ -122,7 +122,7 @@ I’m especially interested in research and translational efforts that connect m
   <div class="timeline-item right">
     <div class="timeline-content">
       <h3> Bispecific Immunotherapy for Hypoxic Melanoma (BAiT Platform) </h3>
-      <p class="timeline-date">2024</p>
+      <p class="timeline-date"></p>
       <p>
         Skills: bispecific therapeutic design, antibody-recruiting strategies, tumor targeting (CAIX), hypoxia-associated tumor biology, in vitro cell-based assays, immune effector function assays (ADCC, CDC, ADCP), in vivo mouse tumor models,
       </p>
