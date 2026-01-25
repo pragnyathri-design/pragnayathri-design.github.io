@@ -66,10 +66,10 @@ I’m especially interested in research and translational efforts that connect m
   <!-- Item 3 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>Project Title 3</h3>
-      <p class="timeline-date">2024</p>
+      <h3> Molecular Biology & Cytoskeletal Dynamics </h3>
+      <p class="timeline-date"></p>
       <p>
-        1–2 lines about the main idea you focused on.
+      Skills: Molecular (Gibson) cloning, plasmid preparation, Gibson assembly, gel electrophoresis, gene cloning workflows,
       </p>
     </div>
   </div>
@@ -77,10 +77,10 @@ I’m especially interested in research and translational efforts that connect m
 <!-- Item 4 (right) -->
   <div class="timeline-item right">
     <div class="timeline-content">
-      <h3>Project Title 4</h3>
-      <p class="timeline-date">2024</p>
+      <h3>Tumor Microenvironment Modulation & Cancer Immunotherapy</h3>
+      <p class="timeline-date"></p>
       <p>
-        1–2 lines about the main idea you focused on.
+       Skills: tumor microenvironment reprogramming, macrophage polarization (M1/M2), in vivo mouse models, immunomodulatory agents, translational oncology research, receptor-targeted diagnostics, experimental design, data analysis
       </p>
     </div>
   </div>
@@ -88,10 +88,10 @@ I’m especially interested in research and translational efforts that connect m
 <!-- Item 5 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>Project Title 5</h3>
-      <p class="timeline-date">2024</p>
+      <h3> Treg Recruitment & Tumor Immunology </h3>
+      <p class="timeline-date"></p>
       <p>
-        1–2 lines about the main idea you focused on.
+       Skills: PBMC isolation, human immune cell culture, Multicolour Flow cytometry, T cell differentiation assays, cytokine stimulation, regulatory T cell (Treg) biology, immune phenotyping
       </p>
     </div>
   </div>
@@ -99,10 +99,10 @@ I’m especially interested in research and translational efforts that connect m
 <!-- Item 6 (right) -->
   <div class="timeline-item right">
     <div class="timeline-content">
-      <h3>Project Title 6</h3>
+      <h3> Bispecific Immunotherapy Targeting Folate Receptor–Positive Tumors </h3>
       <p class="timeline-date">2024</p>
       <p>
-        1–2 lines about the main idea you focused on.
+       Skills: antibody-recruiting platforms, folate receptor (FOLRα) targeting, tumor-targeted drug development, immune effector assays (ADCC, CDC), in vivo murine tumor models (4T1, CT26)
       </p>
     </div>
   </div>
@@ -110,10 +110,10 @@ I’m especially interested in research and translational efforts that connect m
 <!-- Item 7 (left) -->
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>Project Title 7</h3>
+      <h3> Fibroblast Functional Assay Development for IBD </h3>
       <p class="timeline-date">2024</p>
       <p>
-        1–2 lines about the main idea you focused on.
+      Skills: Primary human cell culture, fibroblast biology, in vitro functional assays, cell proliferation assays, cell migration assays, live-cell imaging, fluorescence microscopy, drug response evaluation, mechanism-of-action studies, preclinical assay development, quantitative image analysis
       </p>
     </div>
   </div>
@@ -121,10 +121,10 @@ I’m especially interested in research and translational efforts that connect m
 <!-- Item 8 (right) -->
   <div class="timeline-item right">
     <div class="timeline-content">
-      <h3>Project Title 8</h3>
+      <h3> Bispecific Immunotherapy for Hypoxic Melanoma (BAiT Platform) </h3>
       <p class="timeline-date">2024</p>
       <p>
-        1–2 lines about the main idea you focused on.
+        Skills: bispecific therapeutic design, antibody-recruiting strategies, tumor targeting (CAIX), hypoxia-associated tumor biology, in vitro cell-based assays, immune effector function assays (ADCC, CDC, ADCP), in vivo mouse tumor models,
       </p>
     </div>
   </div>
@@ -132,9 +132,6 @@ I’m especially interested in research and translational efforts that connect m
   
 </div>
 
-<div id="skills"></div>
-
-## Skills
 
 <div id="volunteering"></div>
 ## Volunteering
