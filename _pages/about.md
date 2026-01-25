@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink:  /
+subtitle: Cancer Immunotherapy • Translational Research
 
 profile:
   align: right
@@ -13,8 +14,6 @@ profile:
     <p></p>
 
 ---
-<p class="site-subtitle">Cancer Immunotherapy • Translational Research</p>
-
 <div id="about"></div>
 
 ## About
