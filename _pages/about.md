@@ -144,7 +144,10 @@ I’m especially interested in research and translational efforts that connect m
     <img class="vimg" src="{{ '/assets/img/volunteering/foodbank.jpg' | relative_url }}" alt="Food bank">
     <div class="vtext">
       <h3>Food Bank Volunteer</h3>
-      <p>Helped pack and organize food donations for families each week.</p>
+      <p>Support local food insecurity relief by sorting, packaging, and distributing food to families in the Greater Lafayette community. Assist with warehouse operations to ensure efficient food processing and help expand access to essential resources through community outreach efforts.
+
+Skills:
+Community Service • Teamwork • Logistics & Operations Support • Organization • Time Management • Social Impact Engagement</p>
     </div>
   </div>
 
