@@ -25,6 +25,7 @@ Driven by a passion for cancer immunotherapy and public health innovation, I str
 
 I’m especially interested in research and translational efforts that connect mechanism-driven science with scalable solutions—whether through next-generation therapeutics, improved diagnostics, or platforms that make treatment more personalized.
 
+  </div>
 </div>
 
 <div style="clear: both; margin-top: 30px;"></div>
