@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink:  /
-subtitle: Cancer Immunotherapy • Translational Research
 
 profile:
   align: right
